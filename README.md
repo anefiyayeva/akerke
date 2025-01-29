@@ -1,4 +1,4 @@
-<html lang="en">
+ <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,6 +24,8 @@
         <li>SQL</li>
         <li>PHP</li> </h4>
     </ul>
+     <img src="akerke.JPEG" alt="akerke" width="500">
+     <img src="akerke.JPEG" alt="akerke" width="500">
 
     <ol start="3" type="A">
         <h4>
